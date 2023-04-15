@@ -29,3 +29,11 @@ Zoomed In (Small Roads)             |  Detail View (Building and Restaurants)
 A* algorithm for path finding | Live Weather
 :-------------------------:|:-------------------------:
 <img width="500" alt="Direction" src="https://user-images.githubusercontent.com/37476565/232181232-0c3ca9b7-0e77-4911-83b1-656570b86e97.png"> | <img width="500" alt="Live Weather" src="https://user-images.githubusercontent.com/37476565/232181348-12a2207d-386f-4096-ba52-1316a7560e7e.png">
+
+## No hard coding
+This map supports 19 cities around the world, nothing is hardcoded! 
+Beijing | Hamilton
+:-------------------------:|:-------------------------:
+<img width="1080" alt="Screenshot 2023-04-15 at 12 13 04 AM" src="https://user-images.githubusercontent.com/37476565/232182324-56fb4dbc-4db7-4349-b8ce-12413b12dcf4.png"> | <img width="1078" alt="Screenshot 2023-04-15 at 12 14 07 AM" src="https://user-images.githubusercontent.com/37476565/232182352-93dad895-3b36-434d-b44f-4e1f0b5cab25.png">
+Singapore | New York
+<img width="1081" alt="Screenshot 2023-04-15 at 12 15 01 AM" src="https://user-images.githubusercontent.com/37476565/232182358-22b14a88-ebf0-400b-89d4-11bc6d57322e.png"> | <img width="1080" alt="Screenshot 2023-04-15 at 12 16 37 AM" src="https://user-images.githubusercontent.com/37476565/232182399-8e6a678b-f065-4459-a5dd-dad2df33a6dc.png">
