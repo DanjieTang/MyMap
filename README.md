@@ -15,14 +15,14 @@ This project entered the Courier Problem Contest(A special case of the Traveling
 ### Progressive Disclosure
 Displaying all the information contained in the map simultaneously can overwhelm the user with unnecessary details and result in long refreshing time. Therefore, it is necessary to optimize the amount of information presented. Inspired by Google Map, our team came up with a solution that prioritizes the most interesting points to tourism. As the user zooms in, less significant points will gradually appear(Figure 4). 
 
-### Zoomed Out View
-<img width="601" alt="Zoomed Out" src="https://user-images.githubusercontent.com/37476565/232181171-c4ed6b78-ac30-439e-877f-b3943cade87e.png">
 
-### Zoomed In View
-<img width="589" alt="Zoomed In" src="https://user-images.githubusercontent.com/37476565/232181185-80cdf43e-5174-4131-904f-08c2eb33aa4d.png">
+Zoomed Out             |  Zoomed In
+:-------------------------:|:-------------------------:
+<img width="500" alt="Zoomed Out" src="https://user-images.githubusercontent.com/37476565/232181171-c4ed6b78-ac30-439e-877f-b3943cade87e.png">  |  <img width="500" alt="Zoomed In" src="https://user-images.githubusercontent.com/37476565/232181185-80cdf43e-5174-4131-904f-08c2eb33aa4d.png">
 
-### A* algorithm for navigation
-<img width="1079" alt="Direction" src="https://user-images.githubusercontent.com/37476565/232181232-0c3ca9b7-0e77-4911-83b1-656570b86e97.png">
+A* algorithm for path finding | Live Weather
+:-------------------------:|:-------------------------:
+<img width="500" alt="Direction" src="https://user-images.githubusercontent.com/37476565/232181232-0c3ca9b7-0e77-4911-83b1-656570b86e97.png"> | <img width="500" alt="Live Weather" src="https://user-images.githubusercontent.com/37476565/232181348-12a2207d-386f-4096-ba52-1316a7560e7e.png">
 
 ## Contact Me
 
