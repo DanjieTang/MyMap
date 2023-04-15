@@ -21,6 +21,9 @@ Displaying all the information contained in the map simultaneously can overwhelm
 ### Zoomed In View
 <img width="589" alt="Zoomed In" src="https://user-images.githubusercontent.com/37476565/232181185-80cdf43e-5174-4131-904f-08c2eb33aa4d.png">
 
+### A* algorithm for navigation
+<img width="1079" alt="Direction" src="https://user-images.githubusercontent.com/37476565/232181232-0c3ca9b7-0e77-4911-83b1-656570b86e97.png">
+
 ## Contact Me
 
 The source code for this project is available upon request. If you're interested in gaining access or have any questions, please contact me using the information provided below:
