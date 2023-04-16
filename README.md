@@ -2,7 +2,7 @@
 This is my map software developed using C++. It serves as the background for my LinkedIn profile and was created through a collaboration with Fabien, one of my close friends at the University of Toronto.
 
 ## Contest 3rd place
-This project entered the Courier Problem Contest(A special case of the Traveling Salesman problem) and won third place thanks to the clever use of Simulated Annealing heuristics and parallel programming. The contest consists of more than 80 teams and 74 valid submissions, this contest is open to all Electrical and Computer Engineering students.
+This project entered the Courier Problem Contest(A special case of the Traveling Salesman problem) and won third place thanks to the clever use of Simulated Annealing heuristics and parallel programming. The contest consists of more than 100 teams and 87 valid submissions, this contest is open to all Electrical and Computer Engineering students.
 ### Team Number
 <img width="908" alt="Team Number" src="https://user-images.githubusercontent.com/37476565/232179376-0df8dfe6-6cc5-4245-bc04-301f410041dd.png">
 
